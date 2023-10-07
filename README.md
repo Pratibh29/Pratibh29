@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pratibh</h1>
 <h3 align="center">A Devoted Data Explorer</h3>
-<img align="right" alt="Coding" wodth="400" src="https://i.gifer.com/LSsT.gif">
+<img align="right" alt="Coding" wodth="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&usqp=CAU">
 
 - 🌱 I’m currently learning **Machine Learning ,SQL**
 
